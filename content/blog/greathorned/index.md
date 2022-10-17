@@ -7,6 +7,7 @@ featured: false
 tags:
     - birds
     - birding
+featuredImage: featured.jpg
 image:
   filename: featured
   focal_point: Center
